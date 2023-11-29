@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Solom80
-- 👀 I’m interested in mobile application
-- 🌱I’m currently learning flutter I find it to be a powerful and versatile framework for building beautiful and natively compiled applications for mobile, web, and desktop from a single codebase. The hot reload feature is a game changer, making the development process faster and more efficient. I'm excited to continue exploring all the possibilities that flutter has to offer.
-- 💞️ I’m looking to collaborate ona new project that aligns with my skills and interests. I am open to discussing potential opportunities and am excited to see what we can create together. ...
-- 📫 How to reach me email at [eslamsameh01212917560@gmail.com] 
-
-<!---
-Solom80/Solom80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+name: Eslam Sameh 
+from: Egypt
+job: Flutter Developer 
+education: ["Pre-Masters at Mansoura University", "BSc. of Computer Science"]
+code: ["Dart", "C#",],
+askMeAbout: ["app dev", "web dev"],
+technical_background: {
+  mobileApp: {  cross-platform: ["Dart", "Flutter"] },
+  frontEnd: ["Html", "Css", "JS" ],
+  databases: ["Firebase", "MongoDB", "MySql", "Sqlite"],
+}
+fields_of_interests: ["Mobile Programming", "ML", "AI"]
+currently_learning: ["Android native"] 
+will_learn: ["IoT", "React native"]
+hobbies: ["Problem-Solving", "Video Games", "Competitive Gaming", "Movies"]
