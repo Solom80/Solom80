@@ -8,7 +8,7 @@ Greetings from Egypt! I'm Eslam, a software engineer with a heart that beats for
 ### A Snapshot of Me
 
 - **Name**: Eslam Sameh
-- **Locale**: The Land of Pharaohs, Egypt
+- **Locale**: Egypt
 - **Profession**: Flutter Wizard
 - **Academic Path**:
   - Currently diving into Pre-Masters at Mansoura University
